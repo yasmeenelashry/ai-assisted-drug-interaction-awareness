@@ -1,8 +1,8 @@
-\# Project Brief
+# Project Brief
 
 
 
-\## Project Title
+## Project Title
 
 
 
@@ -10,7 +10,7 @@ AI-Assisted Drug Interaction Awareness: A Pharmacist-Led Healthcare AI Foundatio
 
 
 
-\## 1. Background
+## 1. Background
 
 
 
@@ -26,11 +26,11 @@ This project explores how Generative AI can support medication-safety education 
 
 
 
-\---
+---
 
 
 
-\## 2. Fictional Educational Scenario
+## 2. Fictional Educational Scenario
 
 
 
@@ -46,11 +46,11 @@ The patient considers the cough syrup familiar and routine. However, the pharmac
 
 
 
-\---
+---
 
 
 
-\## 3. Medication-Safety Focus
+## 3. Medication-Safety Focus
 
 
 
@@ -58,7 +58,7 @@ The project examines the potential interaction concern associated with:
 
 
 
-\*\*Escitalopram + Dextromethorphan\*\*
+**Escitalopram + Dextromethorphan\*\*
 
 
 
@@ -70,27 +70,27 @@ Instead, the project demonstrates the importance of:
 
 
 
-\* Reviewing the complete medication profile
+* Reviewing the complete medication profile
 
-\* Considering prescription and OTC medicines together
+* Considering prescription and OTC medicines together
 
-\* Consulting reliable drug-information resources
+* Consulting reliable drug-information resources
 
-\* Recognizing uncertainty and patient-specific factors
+* Recognizing uncertainty and patient-specific factors
 
-\* Applying pharmacist judgment and human oversight
-
-
-
-\---
+* Applying pharmacist judgment and human oversight
 
 
 
-\## 4. Project Goals
+---
 
 
 
-\### Goal 1 — Prompt Engineering
+## 4. Project Goals
+
+
+
+### Goal 1 — Prompt Engineering
 
 
 
@@ -98,7 +98,7 @@ Compare a weak prompt with an engineered prompt and examine how additional conte
 
 
 
-\### Goal 2 — AI Output Evaluation
+### Goal 2 — AI Output Evaluation
 
 
 
@@ -106,23 +106,23 @@ Evaluate real AI-generated responses for:
 
 
 
-\* Relevance
+* Relevance
 
-\* Completeness
+* Completeness
 
-\* Structure
+* Structure
 
-\* Clinical context
+* Clinical context
 
-\* Safety awareness
+* Safety awareness
 
-\* Appropriate uncertainty
+* Appropriate uncertainty
 
-\* Professional usefulness
+* Professional usefulness
 
 
 
-\### Goal 3 — Pharmacist Oversight
+### Goal 3 — Pharmacist Oversight
 
 
 
@@ -130,33 +130,33 @@ Demonstrate why AI output must be reviewed and verified before it is used in a h
 
 
 
-\---
+---
 
 
 
-\## 5. Project Workflow
+## 5. Project Workflow
 
 
 
-1\. Create a weak prompt with limited context.
+1. Create a weak prompt with limited context.
 
-2\. Record the real AI-generated response.
+2. Record the real AI-generated response.
 
-3\. Identify limitations in the response.
+3. Identify limitations in the response.
 
-4\. Design an engineered prompt with clear context and safety boundaries.
+4. Design an engineered prompt with clear context and safety boundaries.
 
-5\. Record the real AI-generated response.
+5. Record the real AI-generated response.
 
-6\. Compare the two outputs.
+6. Compare the two outputs.
 
-7\. Evaluate both outputs using professional judgment.
+7. Evaluate both outputs using professional judgment.
 
-8\. Verify important information using reliable medical sources.
+8. Verify important information using reliable medical sources.
 
 
 
-\---
+---
 
 
 
@@ -168,13 +168,13 @@ AI may support:
 
 
 
-\* Educational content drafting
+* Educational content drafting
 
-\* Information organization
+* Information organization
 
-\* Structured question generation
+* Structured question generation
 
-\* Identification of topics requiring further review
+* Identification of topics requiring further review
 
 
 
@@ -182,11 +182,11 @@ AI should not function as an independent clinical decision-maker.
 
 
 
-\---
+---
 
 
 
-\## 7. Role of the Pharmacist
+## 7. Role of the Pharmacist
 
 
 
@@ -194,27 +194,27 @@ The pharmacist remains responsible for:
 
 
 
-\* Reviewing prescription and OTC medicines
+* Reviewing prescription and OTC medicines
 
-\* Identifying possible interaction concerns
+* Identifying possible interaction concerns
 
-\* Assessing the complete medication profile
+* Assessing the complete medication profile
 
-\* Consulting current and authoritative resources
+* Consulting current and authoritative resources
 
-\* Considering patient-specific factors
+* Considering patient-specific factors
 
-\* Interpreting the clinical relevance of available evidence
+* Interpreting the clinical relevance of available evidence
 
-\* Providing an appropriate professional medication-safety assessment
-
-
-
-\---
+* Providing an appropriate professional medication-safety assessment
 
 
 
-\## 8. Project Limitations
+---
+
+
+
+## 8. Project Limitations
 
 
 
@@ -222,23 +222,23 @@ This project:
 
 
 
-\* Uses one fictional educational scenario
+* Uses one fictional educational scenario
 
-\* Evaluates AI-generated information rather than a validated clinical system
+* Evaluates AI-generated information rather than a validated clinical system
 
-\* Does not determine individual patient risk
+* Does not determine individual patient risk
 
-\* Does not provide patient-specific treatment recommendations
+* Does not provide patient-specific treatment recommendations
 
-\* Does not replace professional healthcare assessment
-
-
-
-\---
+* Does not replace professional healthcare assessment
 
 
 
-\## 9. Final Learning Outcome
+---
+
+
+
+## 9. Final Learning Outcome
 
 
 
