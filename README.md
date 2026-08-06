@@ -26,13 +26,18 @@ AI Output Evaluation	Used to compare the real responses
 AI Hallucinations	Considered during evidence verification
 Human Oversight	Applied through pharmacist review
 Responsible AI	Reflected through transparency, limitations, and professional boundaries
+
 ---
 ## Repository Guide
 File	Purpose
 `README.md`	Project overview and navigation
+
 `project\_brief.md`	Detailed scenario, objectives, workflow, and limitations
+
 `prompt\_engineering.md`	Weak and engineered prompts with prompt-design analysis
+
 `output\_evaluation.md`	Real AI outputs and critical evaluation
+
 ---
 ## Key Takeaway
 > Better prompts can improve the structure, relevance, and safety awareness of AI-generated content, but they cannot guarantee clinical accuracy or replace evidence verification and professional judgment.
@@ -42,6 +47,7 @@ This is an educational Healthcare AI portfolio project.
 The patient scenario is fictional and does not represent a real or identifiable patient.
 The project is not medical advice and must not be used for diagnosis, treatment, medication selection, or patient-specific clinical decision-making.
 AI-generated information must be reviewed using reliable and current medical resources and interpreted by an appropriately qualified healthcare professional.
+
 ---
 ## References
 1. PubMed Central. *Serotonin syndrome caused by drug interaction between escitalopram and dextromethorphan.*
