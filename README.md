@@ -32,11 +32,11 @@ Responsible AI	Reflected through transparency, limitations, and professional bou
 File	Purpose
 `README.md`	Project overview and navigation
 
-`project\_brief.md`	Detailed scenario, objectives, workflow, and limitations
+`project_brief.md`	Detailed scenario, objectives, workflow, and limitations
 
-`prompt\_engineering.md`	Weak and engineered prompts with prompt-design analysis
+`prompt_engineering.md`	Weak and engineered prompts with prompt-design analysis
 
-`output\_evaluation.md`	Real AI outputs and critical evaluation
+`output_evaluation.md`	Real AI outputs and critical evaluation
 
 ---
 ## Key Takeaway
