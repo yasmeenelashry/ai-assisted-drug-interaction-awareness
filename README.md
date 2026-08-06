@@ -52,6 +52,7 @@ https://www.drugs.com/drug-interactions/dextromethorphan-with-escitalopram-844-0
 ## Author
 
 **Yasmeen ElAshry**
+
 Pharmacist | Exploring AI Applications in Healthcare
 
 [LinkedIn](https://www.linkedin.com/in/yasmeenelashry)
